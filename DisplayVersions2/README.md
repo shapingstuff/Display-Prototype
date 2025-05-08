@@ -1,0 +1,1 @@
+This is a base version of the code for communicating with the Arduino bridge which is running the RFID and encoder. I had challenges with the lack of onboard sensors and this gives me some options for expansion later. Using UART to an ESP32C3 with the USBCDC being used for local debugging and uploading.
